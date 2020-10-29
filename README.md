@@ -2,12 +2,14 @@
 ## Welcome to My GitHub Pages
 
 ## 技术栈 Technology Stack
-![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=FF69B4)
-![Swift](https://img.shields.io/badge/-Swift-%232C3A42?style=for-the-badge&logo=swift)
-![Objective-C](https://img.shields.io/badge/-Objective-C-%232C3A42?style=for-the-badge&logo=objective-c)
-![Objective-C](https://img.shields.io/badge/-Objective-C-%23282C34?style=for-the-badge&logo=objective-c)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go8)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=007396)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift)
+![Objective-C](https://img.shields.io/badge/-Objective-C-%232C3A42?style=for-the-badge&logo=xcode)
+![XCode](https://img.shields.io/badge/-XCode-1575F9?style=for-the-badge&logo=xcode)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-DB2C20?style=for-the-badge&logo=redis)
 
 ## Github
 ![Chase's github stats](https://github-readme-stats.vercel.app/api?username=chase&show_icons=true&theme=cobalt)
