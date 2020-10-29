@@ -17,4 +17,4 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
 
 ## Github
-![Chase's github stats](https://github-readme-stats.vercel.app/api?username=chase&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=Chase&count_private=true&show_icons=true&theme=cobalt)
